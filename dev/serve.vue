@@ -12,9 +12,9 @@ export default Vue.extend({
       achievement: {
         id: "ABC123",
         img: "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.xboxachievements.com%2Fimages%2Fnews%2Fachievements.jpg&f=1&nofb=1",
-        points: 100,
-        title: "You Win",
-        description: "You won your first game",
+        points: 150,
+        title: "10% weniger Müll",
+        description: "Du bist geil",
       }
     }
   }
